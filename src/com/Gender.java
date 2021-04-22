@@ -2,5 +2,5 @@ package com;
 
 public enum Gender {
 
-    Male, Female, attackHelicopter;
+    MALE, FEMALE, ATTACK_HELICOPTER;
 }
